@@ -143,4 +143,4 @@ All unittests can be found in the [tests](./tests) directory.
 
 # Author
 
-Laura Roudge
+Lekan Olaoye
